@@ -38,4 +38,7 @@
 #include "./extension/complex.h"
 #include "./extension/range.h"
 #include "./extension/mask.h"
+#include "./extension/spatial_max_pool_mask.h"
+#include "./extension/spatial_max_unpool_forward.h"
+#include "./extension/spatial_max_unpool_backward.h"
 #endif  // MSHADOW_EXTENSION_H_
